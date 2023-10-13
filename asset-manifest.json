@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/s/static/css/main.46a190e5.css",
+    "main.js": "/s/static/js/main.b8f7330f.js",
+    "static/js/787.0c3f432a.chunk.js": "/s/static/js/787.0c3f432a.chunk.js",
+    "static/media/max.png": "/s/static/media/max.fbafb8d1ccca53e6bad4.png",
+    "static/media/Alex.jpg": "/s/static/media/Alex.a57e1301c19a82658a86.jpg",
+    "static/media/m.jpg": "/s/static/media/m.cf00564eb5e5b95d12c1.jpg",
+    "static/media/mentcer.jpeg": "/s/static/media/mentcer.41ef85f0c04892856628.jpeg",
+    "static/media/king.jpeg": "/s/static/media/king.e4da9f4b6412cc6dfeb9.jpeg",
+    "static/media/A.png": "/s/static/media/A.7c0b7e19a67fc084b842.png",
+    "static/media/URA2.jpg": "/s/static/media/URA2.e448e4fb5dbc92912fa9.jpg",
+    "static/media/moger.jpg": "/s/static/media/moger.b0b6c8b2521aa150b95e.jpg",
+    "static/media/JefCavalier.jpg": "/s/static/media/JefCavalier.c85fcd5a36b37aa69498.jpg",
+    "static/media/1.jpg": "/s/static/media/1.548ef6664deed9280854.jpg",
+    "static/media/skott.jpg": "/s/static/media/skott.168697491d3caa436540.jpg",
+    "index.html": "/s/index.html",
+    "main.46a190e5.css.map": "/s/static/css/main.46a190e5.css.map",
+    "main.b8f7330f.js.map": "/s/static/js/main.b8f7330f.js.map",
+    "787.0c3f432a.chunk.js.map": "/s/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a190e5.css",
+    "static/js/main.b8f7330f.js"
+  ]
+}
